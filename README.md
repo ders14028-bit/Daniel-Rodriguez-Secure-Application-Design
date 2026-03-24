@@ -224,7 +224,7 @@ Insert your demonstration video here. The video should cover:
 
 **Video Link**
 
-![Video](https://youtu.be/Ra0srcAi4iw)
+[Video](https://youtu.be/Ra0srcAi4iw)
 
 
 ---
