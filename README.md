@@ -1,5 +1,5 @@
 
-# Secure Application Design (Enterprise Architecture Workshop)
+# Secure Application Design 
 
 This repository contains a two-server secure application architecture using Apache, Spring Boot, HTTPS/TLS, and JWT-based authentication.
 
