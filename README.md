@@ -222,9 +222,9 @@ Insert your demonstration video here. The video should cover:
 - Protected endpoint access with JWT.
 - Security features (HTTPS, password hashing, token-based access).
 
-**Video Link / Embedding:**
+**Video Link**
 
-![Video Placeholder](assets/screenshots/video-screenshot.png)
+![Video](https://youtu.be/Ra0srcAi4iw)
 
 
 ---
